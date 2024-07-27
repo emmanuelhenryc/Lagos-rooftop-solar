@@ -63,7 +63,7 @@ To understand:
     > Nigeria's electricity grid has a carbon intensity of 394.41 grams of C02 equivalent (gCO2e) per       kilowatt-hour.
 
 
-    | Building Type | Building Count | Sum of Surface Area (sq km)|Sum of Solar Energy Potential per Yea(GWh)| 
+    | Building Type | Building Count | Sum of Surface Area (sq km)|Sum of Solar Energy Potential per Year (GWh)| 
     | :-------| :-------| ---------|------- |
     | Single family residential   | 121, 119 | 26.90 | 4, 090 |
     | Peri-urban settlement       | 48, 772 | 11.06 |1, 799|
